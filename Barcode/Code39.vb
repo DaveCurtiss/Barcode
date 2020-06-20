@@ -17,6 +17,7 @@
         Return output
 
     End Function
+
     Private Function ValidASCII(input As String) As Boolean
         Dim i As Integer
         Dim result As Boolean = False
